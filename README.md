@@ -1,20 +1,21 @@
 
-highcharts-dyn-demo highcharts¶¯Ì¬¼ÓÔØÊı¾İ
-===========
+highcharts-dyn-demo highchartsåŠ¨æ€åŠ è½½æ•°æ®
+==========================================
 
-====»·¾³ËµÃ÷
+ç¯å¢ƒè¯´æ˜
+--------
 
-ÓÃµ½ÁËphp¡¢mysql¡¢highcharts£¬¶¯Ì¬ÎŞË¢ĞÂ¼ÓÔØÊı¾İ¡£Êı¾İÀ´Ô´ÓÚmysql£¬ÏÖÔÚÊÇ²ÉÓÃÔÚÄ¿±ê»úÆ÷ÉÏcrontab¶¨Ê±ÔËĞĞsend.sh£¬ÓÃcurlÌá½»Êı¾İ¡£¸ù¾İÍõ³¬µÄ½¨Òé£¬¿ÉÒÔ¸Ä³ÉÓÃudp boardcastµÄ·½Ê½½ÓÊÕÊı¾İ£¬Õâ¾ÍĞèÒª¸ÄĞ´udp serverºÍclient£¬¿ÉÒÔÊ¹ÓÃcollectdµÄudpĞ­Òé¡£<br>
+ç”¨åˆ°äº†phpã€mysqlã€highchartsï¼ŒåŠ¨æ€æ— åˆ·æ–°åŠ è½½æ•°æ®ã€‚æ•°æ®æ¥æºäºmysqlï¼Œç°åœ¨æ˜¯é‡‡ç”¨åœ¨ç›®æ ‡æœºå™¨ä¸Šcrontabå®šæ—¶è¿è¡Œsend.shï¼Œç”¨curlæäº¤æ•°æ®ã€‚å¯ä»¥æ”¹æˆç”¨udp boardcastçš„æ–¹å¼æ¥æ”¶æ•°æ®ï¼Œè¿™å°±éœ€è¦æ”¹å†™udp serverå’Œclientï¼Œå¯ä»¥ä½¿ç”¨collectdçš„udpåè®®ã€‚<br>
 
-====highchart-dyn-demo highcharts¶¯Ì¬¼ÓÔØÊı¾İ
-![Ö÷Ò³](http://172.23.64.232/appimgs/highcharts.jpg)
+highchart-dyn-demo highchartsåŠ¨æ€åŠ è½½æ•°æ®
+-----------------------------------------
+![ä¸»é¡µ](http://www.linuxboy.net/appimgs/highcharts.jpg)
 
-====highcharts-dyn-demo²¿Êğ
+highcharts-dyn-demoéƒ¨ç½²
+-----------------------
 
-ÓÃtest.sql¹àÈëmysqlÊı¾İ¿â£¬¸ü¸Äreceive.phpÖĞÏàÓ¦²ÎÊı¡£<br>
-ÔÚÄ¿±ê»úÆ÷ÉÏ±à¼­crontab
+ç”¨test.sqlçŒå…¥mysqlæ•°æ®åº“ï¼Œæ›´æ”¹receive.phpä¸­ç›¸åº”å‚æ•°ã€‚<br>
+åœ¨ç›®æ ‡æœºå™¨ä¸Šç¼–è¾‘crontab
 0-59/1 * * * * send.sh
 
-====highcharts-dyn-demo ÑİÊ¾µØÖ·£º
 
-http://172.23.64.1/hicharts/index.php
