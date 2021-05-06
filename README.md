@@ -9,7 +9,7 @@ highcharts-dyn-demo highcharts动态加载数据
 
 highchart-dyn-demo highcharts动态加载数据
 -----------------------------------------
-![主页](http://www.linuxboy.net/appimgs/highcharts.jpg)
+![图像1](http://img.rendoumi.com/t/git/highcharts.jpg)
 
 highcharts-dyn-demo部署
 -----------------------
